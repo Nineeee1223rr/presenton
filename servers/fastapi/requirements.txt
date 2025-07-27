@@ -17,7 +17,7 @@ email_validator==2.2.0
 fastapi==0.116.1
 fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.4
-fastembed-vectorstore==0.1.6
+fastembed-vectorstore
 frozenlist==1.7.0
 google-auth==2.40.3
 google-genai==1.25.0
